@@ -1,0 +1,201 @@
+customer_id,age,gender,location
+c001,40,Female,North Judithbury
+c002,33,Female,East Jessetown
+c003,42,Male,East Jill
+c004,53,Female,Ericmouth
+c005,32,Male,Lisatown
+c006,32,Male,East Jill
+c007,53,Male,Ericmouth
+c008,44,Female,Ericmouth
+c009,29,Male,Ericmouth
+c010,41,Male,Lake Roberto
+c011,29,Male,North Judithbury
+c012,29,Female,New Roberttown
+c013,37,Female,Robinsonshire
+c014,18,Male,East Jessetown
+c015,18,Female,Robinsonshire
+c016,28,Male,Lisatown
+c017,22,Male,Robinsonshire
+c018,38,Female,North Judithbury
+c019,24,Female,Ericmouth
+c020,18,Male,Lisatown
+c021,52,Male,Lake Debra
+c022,32,Female,North Noahstad
+c023,35,Female,Robinsonshire
+c024,18,Male,East Jill
+c025,28,Male,East Jessetown
+c026,36,Female,East Jill
+c027,21,Female,East Jill
+c028,39,Male,Lake Roberto
+c029,27,Female,Robinsonshire
+c030,31,Male,Robinsonshire
+c031,27,Male,Lake Debra
+c032,57,Female,East Jill
+c033,34,Female,New Roberttown
+c034,22,Male,East Jessetown
+c035,44,Male,Lisatown
+c036,20,Male,Ericmouth
+c037,37,Male,Robinsonshire
+c038,18,Female,North Judithbury
+c039,19,Male,North Judithbury
+c040,37,Female,Lisatown
+c041,43,Male,East Jessetown
+c042,37,Female,North Noahstad
+c043,33,Female,Robinsonshire
+c044,31,Male,Lake Roberto
+c045,18,Male,Lake Roberto
+c046,26,Male,New Roberttown
+c047,29,Male,Ericmouth
+c048,47,Male,North Noahstad
+c049,39,Male,North Noahstad
+c050,18,Male,East Jessetown
+c051,38,Female,New Roberttown
+c052,30,Male,East Jill
+c053,26,Female,East Jill
+c054,42,Male,New Roberttown
+c055,47,Female,Lisatown
+c056,46,Male,Lisatown
+c057,24,Male,Lake Roberto
+c058,31,Male,Ericmouth
+c059,38,Female,North Judithbury
+c060,46,Female,East Jill
+c061,29,Female,Ericmouth
+c062,32,Female,Robinsonshire
+c063,21,Male,Lisatown
+c064,20,Male,North Judithbury
+c065,44,Female,Lake Debra
+c066,51,Female,New Roberttown
+c067,34,Male,East Jill
+c068,47,Female,Lake Debra
+c069,39,Female,Ericmouth
+c070,27,Female,New Roberttown
+c071,39,Male,New Roberttown
+c072,53,Male,Ericmouth
+c073,34,Female,North Noahstad
+c074,53,Male,North Judithbury
+c075,18,Male,Robinsonshire
+c076,44,Female,Lake Debra
+c077,36,Male,East Jessetown
+c078,31,Female,East Jill
+c079,36,Male,Lake Roberto
+c080,18,Female,Ericmouth
+c081,32,Female,New Roberttown
+c082,39,Female,Ericmouth
+c083,52,Male,Ericmouth
+c084,28,Female,Lisatown
+c085,25,Female,Ericmouth
+c086,28,Female,East Jessetown
+c087,45,Female,Lisatown
+c088,38,Female,Robinsonshire
+c089,28,Male,Ericmouth
+c090,41,Male,East Jessetown
+c091,36,Male,Robinsonshire
+c092,46,Male,Ericmouth
+c093,26,Male,East Jessetown
+c094,31,Male,North Judithbury
+c095,30,Male,North Judithbury
+c096,18,Female,East Jill
+c097,38,Male,Lake Debra
+c098,38,Female,East Jessetown
+c099,35,Male,North Noahstad
+c100,32,Male,East Jessetown
+c101,18,Female,Lisatown
+c102,29,Male,East Jill
+c103,30,Female,Robinsonshire
+c104,25,Male,Lake Roberto
+c105,33,Female,North Judithbury
+c106,39,Female,East Jill
+c107,57,Male,Robinsonshire
+c108,37,Female,East Jill
+c109,38,Male,East Jessetown
+c110,34,Male,New Roberttown
+c111,18,Male,Lake Debra
+c112,34,Male,East Jill
+c113,35,Male,Ericmouth
+c114,64,Male,Ericmouth
+c115,32,Female,East Jill
+c116,38,Female,East Jessetown
+c117,34,Male,Lake Roberto
+c118,20,Male,Lisatown
+c119,48,Female,New Roberttown
+c120,44,Male,Lisatown
+c121,44,Male,Lake Roberto
+c122,24,Male,Ericmouth
+c123,51,Female,Lake Roberto
+c124,18,Male,Lake Debra
+c125,42,Male,North Judithbury
+c126,61,Male,Ericmouth
+c127,23,Male,Robinsonshire
+c128,28,Male,North Noahstad
+c129,36,Male,Ericmouth
+c130,28,Male,Ericmouth
+c131,18,Male,New Roberttown
+c132,35,Male,East Jill
+c133,22,Female,East Jessetown
+c134,40,Male,North Noahstad
+c135,23,Male,North Noahstad
+c136,53,Male,East Jill
+c137,25,Male,North Noahstad
+c138,31,Male,Robinsonshire
+c139,44,Female,East Jessetown
+c140,20,Female,Robinsonshire
+c141,37,Male,Lisatown
+c142,50,Male,Lake Debra
+c143,18,Male,East Jill
+c144,37,Male,North Noahstad
+c145,38,Female,East Jill
+c146,44,Male,East Jessetown
+c147,20,Male,New Roberttown
+c148,19,Female,East Jill
+c149,41,Female,Robinsonshire
+c150,38,Male,Lake Roberto
+c151,38,Female,Lake Debra
+c152,39,Female,Ericmouth
+c153,26,Male,Ericmouth
+c154,37,Male,East Jill
+c155,38,Female,New Roberttown
+c156,26,Male,East Jill
+c157,57,Female,New Roberttown
+c158,40,Male,North Noahstad
+c159,20,Male,Robinsonshire
+c160,42,Male,Lake Debra
+c161,23,Male,Lake Debra
+c162,44,Female,North Judithbury
+c163,48,Male,Lisatown
+c164,25,Female,North Judithbury
+c165,46,Male,New Roberttown
+c166,39,Female,Lake Debra
+c167,44,Male,Lake Roberto
+c168,57,Male,Lisatown
+c169,32,Male,East Jill
+c170,25,Male,New Roberttown
+c171,24,Male,Robinsonshire
+c172,25,Male,New Roberttown
+c173,34,Male,North Judithbury
+c174,39,Male,North Judithbury
+c175,38,Female,East Jessetown
+c176,44,Female,East Jill
+c177,35,Male,Ericmouth
+c178,52,Female,Lisatown
+c179,31,Female,New Roberttown
+c180,67,Female,East Jessetown
+c181,42,Female,New Roberttown
+c182,24,Female,North Judithbury
+c183,22,Male,Robinsonshire
+c184,40,Female,Lisatown
+c185,32,Female,East Jessetown
+c186,43,Male,East Jill
+c187,40,Male,North Judithbury
+c188,34,Female,East Jessetown
+c189,24,Male,Lake Roberto
+c190,18,Male,East Jessetown
+c191,29,Male,East Jessetown
+c192,45,Male,Lake Debra
+c193,37,Female,Lake Debra
+c194,20,Male,Ericmouth
+c195,37,Male,Ericmouth
+c196,39,Male,North Judithbury
+c197,24,Male,Lake Debra
+c198,36,Male,Lake Debra
+c199,35,Male,North Noahstad
+c200,21,Male,Robinsonshire
